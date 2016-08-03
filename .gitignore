@@ -1,0 +1,7 @@
+.deploy_git
+/.npmignore
+/scaffolds
+/node_modules
+/public
+/db.json
+/package.json
